@@ -9,12 +9,14 @@ Minor in Artificial Intelligence (IIT Ropar)
 
 ## 🚀 About Me
 
-I'm an enthusiastic learner passionate about technology and creativity. Currently, I am pursuing my B.Tech in Computer Science and Engineering at Sri Venkateswara University College of Engineering and exploring the world of Artificial Intelligence through a minor program by IIT Ropar.
+I'm an enthusiastic learner passionate about technology and creativity. Currently, I am pursuing my B.Tech in Computer Science and Engineering at Sri Venkateswara University College of Engineering[...]
 
 - 🌱 I’m learning **C, C#, Python, Data Structures**, as well as **Robotics and IoT** through my AI minor.
 - 🤖 Interested in **AI**, **Web Development**, **Machine Learning**, and **Video Editing**
 - 🎨 I love **sketching, painting, and mandala art**
 - 💼 Currently doing an **AI/ML internship at Nyeras Edu Limited**
+- ♟️ I enjoy playing **chess**
+- 📚 I also love **reading books**
 
 ---
 
@@ -49,12 +51,17 @@ As part of my minor in Artificial Intelligence at IIT Ropar, I have explored top
 
 ## ✨ Fun Fact
 
-When I'm not coding, you'll find me creating art—whether it's sketching, painting, exploring intricate mandala designs, or editing videos!
+When I'm not coding, you'll find me creating art—whether it's sketching, painting, exploring intricate mandala designs, playing chess, reading books, or editing videos!
 
 ---
 
 *Thanks for stopping by! Feel free to connect or check out my projects and journey.*
 
+<!---
+saitejaswini17/saitejaswini17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+  
 <!---
 saitejaswini17/saitejaswini17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
